@@ -1,6 +1,7 @@
-# whatsapp
+# Whatsapp Clone
 
-A new Flutter project.
+This WhatsApp clone, built with Flutter, features a design similar to the original app but lacks essential functionalities like end-to-end encryption, group calls, and real-time messaging. It offers basic chat and media sharing features but does not support voice or video calls.
+
 
 ## Getting Started
 
@@ -14,7 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-This WhatsApp clone, built with Flutter, features a design similar to the original app but lacks essential functionalities like end-to-end encryption, group calls, and real-time messaging. It offers basic chat and media sharing features but does not support voice or video calls.
 
 
